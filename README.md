@@ -4,6 +4,9 @@
 
 ## Introduction
 ## Data Sources 
+ACS 2012 and 2022 Census 5-Year Estimates
+EPA Superfund’s National Priorities List (NPL)
+CalEnviroScreen 4.0 
 
 ### What is a Superfund Site?
 Uncontrolled releases of hazardous substances into the air, water, and soil. 
