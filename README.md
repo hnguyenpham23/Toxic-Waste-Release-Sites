@@ -4,9 +4,9 @@
 
 ## Introduction
 ## Data Sources 
-ACS 2012 and 2022 Census 5-Year Estimates
-EPA Superfund’s National Priorities List (NPL)
-CalEnviroScreen 4.0 
+1. ACS 2012 and 2022 Census 5-Year Estimates
+2. EPA Superfund’s National Priorities List (NPL)
+3. CalEnviroScreen 4.0 
 
 ## Background
 ### What is a Superfund Site?
