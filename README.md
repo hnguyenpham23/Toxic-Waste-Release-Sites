@@ -3,10 +3,7 @@
 ### Hillary Nguyen Pham & Sanjana Appachu
 
 ## Introduction
-## Data Sources 
-1. ACS 2012 and 2022 Census 5-Year Estimates
-2. EPA Superfund’s National Priorities List (NPL)
-3. CalEnviroScreen 4.0 
+
 
 ## Background
 ### What is a Superfund Site?
@@ -21,6 +18,21 @@ Superfund sites undergo a comprehensive process of investigation, evaluation, an
 In addition to cleanup efforts, the Superfund program also focuses on holding responsible parties accountable for the costs of remediation through a process known as "polluter pays." This involves identifying parties responsible for the contamination and requiring them to either clean up the site themselves or contribute financially to the cleanup efforts.
 
 Overall, Superfund sites represent a commitment to addressing environmental pollution and protecting communities from the adverse effects of hazardous substances. Through the Superfund program, efforts are made to remediate contaminated sites, restore ecosystems, and safeguard public health for present and future generations.
+
+## Data Sources 
+1. ACS 2012 and 2022 Census 5-Year Estimates
+2. EPA Superfund’s National Priorities List (NPL)
+3. CalEnviroScreen 4.0
+
+## Methdology
+
+## Analysis
+
+## Findings
+
+## Limitations and Conclusions
+
+## References
 
 
 
