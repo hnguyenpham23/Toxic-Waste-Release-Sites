@@ -71,6 +71,8 @@ We focused our exploration on Santa Clara County rather than the entire nine-cou
 #### Geographical Distribution of Superfund Sites: 
 The majority of Superfund sites within Santa Clara County are strategically situated in close proximity to significant landmarks such as the San Jose Airport and along the bay edge. This spatial concentration suggests a potential correlation between industrial activity or historical land use and the presence of hazardous waste sites.
 
+![(Median Property Values in Santa Clara) ](2012 and 2022 Median Property Values.png)
+
 #### Stability in Property Values: 
 Over the period from 2012 to 2022, the median property values across Santa Clara County have exhibited a consistent trend, showing no significant deviation. This stability suggests that despite the presence of Superfund sites, broader economic factors and other local dynamics might have a more dominant influence on property values in the region.
 
