@@ -48,7 +48,7 @@ Taking a closer look at Santa Clara County, we further used data from Table: B19
 EPA Superfund’s National Priorities List (NPL) and Toxic Release Inventory (TRI) Program
 We used the data from the NPL to project the current amount of Superfund Sites in the Bay Area. We cleaned the data so that it would also only show for certain counties, such as our main county of Santa Clara. We also added TRI sites to our map to show the number of current sites where toxic chemical releases and pollution reported by industrial and federal facilities are released. This additional element provides a more comprehensive understanding of environmental hazards in the area. Below is a map of TRI sites throughout the nine-county Bay Area. As we can see, there is a significant concentration in Santa Clara County along with Superfund Sites. 
 
-![(TRI Sites in the Nine County Bay Area Region) ](tri_bayarea.png.)
+![(TRI Sites in the Nine County Bay Area Region) ](tri_bayarea.png)
 
 Exposure to pollutants from Superfund and TRI sites has been linked to an increased risk of cardiovascular disease, including hypertension, atherosclerosis, and heart attack. These contaminants, which can enter the air, water, and soil, contribute to cardiovascular conditions by promoting inflammation, oxidative stress, and endothelial dysfunction. Mitigating exposure to these pollutants through remediation efforts and regulatory measures is essential for reducing the burden of cardiovascular disease in affected communities.
 
