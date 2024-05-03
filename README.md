@@ -10,7 +10,7 @@ What is the relationship between Superfund Sites and property values in Santa Cl
 
 ## Background
 ### What is a Superfund Site?
-![Superfund](Hazardous Site.jpg)
+![(Soil excavation and cleanup at a Superfund site / EPA) ](Hazardous Site.jpg)
 
 Superfund sites are locations across the United States where uncontrolled releases of hazardous substances into the air, water, and soil have occurred, posing risks to human health and the environment. These sites can result from industrial accidents, improper waste disposal practices, or other activities that have led to contamination.
 
@@ -80,5 +80,9 @@ We are also interested to take a closer look and analyse the other eight Bay Are
 [The Superfund Sites of Silicon Valley](https://www.nytimes.com/2018/03/26/lens/the-superfund-sites-of-silicon-valley.html#:~:text=From%20its%20origins%20as%20a,any%20county%20in%20the%20country)
 
 [Silicon Valley is home to more toxic Superfund sites than anywhere else in the country](https://qz.com/1017181/silicon-valley-pollution-there-are-more-superfund-sites-in-santa-clara-than-any-other-us-county)
+
+[Toxicology and Societies: The Impacts of Chemicals in our Lives](https://foundation.wwu.edu/event/environmental-injustice-toxic-waste-sites)
+
+[Targeting minority, low-income neighborhoods for hazardous waste sites](https://news.umich.edu/targeting-minority-low-income-neighborhoods-for-hazardous-waste-sites/)
 
 
