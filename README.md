@@ -27,13 +27,6 @@ Overall, Superfund sites represent a commitment to addressing environmental poll
 ***insert map of superfund sites in the bayarea
 
 
-
-### Santa Clara County 
-
-*** insert map of superfund sites and TRI sites in SC county
-
-
-
 ## Data Sources 
 1. American Community Survey (ACS) 2012 and 2022 Census 5-Year Estimates
 2. EPA Superfund’s National Priorities List (NPL)
@@ -53,6 +46,10 @@ We used the data from the NPL to project
 
 ## Analysis
 We focused our exploration on Santa Clara County rather than the entire nine-county Bay Area. The decision to do this came after an initial analysis of conducting a count of how many Superfund sites were in each county. 
+
+### Santa Clara County 
+![(Share of Population Under 18 in Santa Clara County) ](superfund_shareof18.png)
+
 
 ## Key Findings
 
