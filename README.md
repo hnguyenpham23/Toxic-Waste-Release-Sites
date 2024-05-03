@@ -71,5 +71,12 @@ We are also interested to take a closer look and analyse the other eight Bay Are
 
 ## References
 
+[Pollution, Poverty and People of Color: Living with Industry](https://www.scientificamerican.com/article/pollution-poverty-people-color-living-industry/)
+
+[Toxic waste sites and environmental justice: Research roundup](  https://journalistsresource.org/environment/superfund-toxic-waste-race-research/)
+  
+[Superfunds and Inequality](https://jeremybney.medium.com/superfunds-and-inequality-a45d9598cc49)
+
+[The Superfund Sites of Silicon Valley](https://www.nytimes.com/2018/03/26/lens/the-superfund-sites-of-silicon-valley.html#:~:text=From%20its%20origins%20as%20a,any%20county%20in%20the%20country)
 
 
