@@ -35,7 +35,7 @@ Overall, Superfund sites represent a commitment to addressing environmental poll
 
 
 ## Data Sources 
-1. ACS 2012 and 2022 Census 5-Year Estimates
+1. American Community Survey (ACS) 2012 and 2022 Census 5-Year Estimates
 2. EPA Superfund’s National Priorities List (NPL)
 3. CalEnviroScreen 4.0
 
