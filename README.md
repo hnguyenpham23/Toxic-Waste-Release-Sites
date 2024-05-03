@@ -79,4 +79,6 @@ We are also interested to take a closer look and analyse the other eight Bay Are
 
 [The Superfund Sites of Silicon Valley](https://www.nytimes.com/2018/03/26/lens/the-superfund-sites-of-silicon-valley.html#:~:text=From%20its%20origins%20as%20a,any%20county%20in%20the%20country)
 
+[Silicon Valley is home to more toxic Superfund sites than anywhere else in the country](https://qz.com/1017181/silicon-valley-pollution-there-are-more-superfund-sites-in-santa-clara-than-any-other-us-county)
+
 
