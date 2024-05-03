@@ -3,7 +3,7 @@
 ### Hillary Nguyen Pham & Sanjana Appachu
 
 ## Introduction
-Our final project will explore superfund sites in the Bay Area and specifically at Santa Clara County. Our objective was to explore the correlation between superfund sites and toxic release sites in Santa Clara County, examining their impact on property values and any demographic associations with these sites. We are curious to see if there is any correlation between superfund sites and property values that sheds light on the economic and public health implications of environmental contamination. Additionally, to see if we can delve into potential disparities in property value that contribute to discussions on social equity and environmental justice. 
+Our project explores superfund sites in the San Francisco Bay Area and specifically those situated in Santa Clara County. Our objective was to explore the correlation between superfund sites and toxic release sites in Santa Clara County, examining their impact on property values and any demographic associations with these sites. We are curious to see if there is any correlation between superfund sites and property values that sheds light on the economic and public health implications of environmental contamination. Additionally, to see if we can delve into potential disparities in property value that contribute to discussions on social equity and environmental justice. 
 
 ### Research Question 
 What is the relationship between Superfund Sites and property values in Santa Clara County? 
