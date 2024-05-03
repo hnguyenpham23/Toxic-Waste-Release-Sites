@@ -50,8 +50,11 @@ We focused our exploration on Santa Clara County rather than the entire nine-cou
 ## Key Findings
 
 From our analysis, we note three main findings which are noted below;
+
 *Most sites in Santa Clara County are located near the San Jose Airport and the bay edge.
+
 *There has not been a drastic change in the median property values in Santa Clara County from 2012 to 2022.
+
 *Despite 5 superfund sites in one of the census tracts, the median household income in 2022 was over $250,000.
 
 
