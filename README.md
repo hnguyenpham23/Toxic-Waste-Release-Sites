@@ -10,7 +10,7 @@ What is the relationship between Superfund Sites and property values in Santa Cl
 
 ## Background
 ### What is a Superfund Site?
-***insert photo from ppt of a superfund site*
+![Superfund](Hazardous Site.jpg)
 
 Superfund sites are locations across the United States where uncontrolled releases of hazardous substances into the air, water, and soil have occurred, posing risks to human health and the environment. These sites can result from industrial accidents, improper waste disposal practices, or other activities that have led to contamination.
 
