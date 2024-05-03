@@ -46,7 +46,11 @@ Taking a closer look at Santa Clara County, we further used data from Table: B19
 ![(2022 Median Household Income) ](Median Household Income.png)
 
 EPA Superfund’s National Priorities List (NPL) and Toxic Release Inventory (TRI) Program
-We used the data from the NPL to project the current amount of Superfund Sites in the Bay Area. We cleaned the data so that it would also only show for certain counties, such as our main county of Santa Clara. We also added TRI sites to our map to show the number of current sites where toxic chemical releases and pollution reported by industrial and federal facilities are released. This additional element provides a more comprehensive understanding of environmental hazards in the area.
+We used the data from the NPL to project the current amount of Superfund Sites in the Bay Area. We cleaned the data so that it would also only show for certain counties, such as our main county of Santa Clara. We also added TRI sites to our map to show the number of current sites where toxic chemical releases and pollution reported by industrial and federal facilities are released. This additional element provides a more comprehensive understanding of environmental hazards in the area. 
+
+Exposure to pollutants from Superfund and TRI sites has been linked to an increased risk of cardiovascular disease, including hypertension, atherosclerosis, and heart attack. These contaminants, which can enter the air, water, and soil, contribute to cardiovascular conditions by promoting inflammation, oxidative stress, and endothelial dysfunction. Mitigating exposure to these pollutants through remediation efforts and regulatory measures is essential for reducing the burden of cardiovascular disease in affected communities.
+
+![(Cardiovascular Disease Percentile in Santa Clara County) ](cardiovascular_superfund.png)
 
 ## Analysis
 We focused our exploration on Santa Clara County rather than the entire nine-county Bay Area. The decision to do this came after an initial analysis of conducting a count of how many Superfund sites were in each county. 
