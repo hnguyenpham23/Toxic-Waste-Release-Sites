@@ -49,13 +49,17 @@ We focused our exploration on Santa Clara County rather than the entire nine-cou
 
 ## Key Findings
 
-From our analysis, we note three main findings which are noted below;
+# Geographical Distribution of Superfund Sites: 
+The majority of Superfund sites within Santa Clara County are strategically situated in close proximity to significant landmarks such as the San Jose Airport and along the bay edge. This spatial concentration suggests a potential correlation between industrial activity or historical land use and the presence of hazardous waste sites.
 
-  * Most sites in Santa Clara County are located near the San Jose Airport and the bay edge.
+# Stability in Property Values: 
+Over the period from 2012 to 2022, the median property values across Santa Clara County have exhibited a consistent trend, showing no significant deviation. This stability suggests that despite the presence of Superfund sites, broader economic factors and other local dynamics might have a more dominant influence on property values in the region.
 
-  * There has not been a drastic change in the median property values in Santa Clara County from 2012 to 2022.
+# Resilience of Local Economy: 
+Despite the existence of five Superfund sites within a specific census tract, the median household income in 2022 surpassed $250,000. This observation indicates a remarkable economic resilience within the community, where despite potential environmental concerns, residents have managed to maintain high levels of income, possibly due to diverse economic opportunities or other mitigating factors.
 
-  * Despite 5 superfund sites in one of the census tracts, the median household income in 2022 was over $250,000.
+
+These findings collectively shed light on the intricate relationship between environmental risk, economic dynamics, and community resilience within Santa Clara County. While the presence of Superfund sites may raise environmental and health concerns, the stability of property values and the robustness of the local economy underscore the complexity of factors influencing the lived experiences of residents in proximity to hazardous waste sites.
 
 
 ## Conclusions and Next Steps
