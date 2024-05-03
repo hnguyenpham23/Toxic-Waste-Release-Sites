@@ -41,7 +41,12 @@ Overall, Superfund sites represent a commitment to addressing environmental poll
 
 ## Methdology
 
-Gathering the demographic data from the American Community Survey (5-year Estimates) 
+American Community Survey 2022 5-Year Estimates
+We began our study by first utilizing the ACS demographic data to visualize the racial distribution across the nine Bay Area Counties. For the purpose of this study, we considered “Native Hawaiian and Other Pacific Islander”, “American Indian and Alaska Native” and “Two or More Races” as a part of the “Other” race category. ACS Table: B02001
+Taking a closer look at Santa Clara County, we further used data from Table: B19013 to analyze Median Household Incomes Adjusted for inflation. We also used data to compare 2012 and 2022 Median Property Values from Table: B25077. 
+
+EPA Superfund’s National Priorities List (NPL)
+We used the data from the NPL to project
 
 
 ## Analysis
