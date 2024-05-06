@@ -39,32 +39,44 @@ Overall, Superfund sites represent a commitment to addressing environmental poll
 American Community Survey 2022 5-Year Estimates
 We began our study by first utilizing the ACS demographic data to visualize the racial distribution across the nine Bay Area Counties. For the purpose of this study, we considered “Native Hawaiian and Other Pacific Islander”, “American Indian and Alaska Native” and “Two or More Races” as a part of the “Other” race category. ACS Table: B02001
 
-![(Racial Distribution in the Bay Area / EPA) ](Bay Area_Racial Distribution .png)
+![(Racial Distribution in the Bay Area / EPA)](Bay Area_Racial Distribution .png)
 
 Taking a closer look at Santa Clara County, we further used data from Table: B19013 to analyze Median Household Incomes Adjusted for inflation. We also used data to compare 2012 and 2022 Median Property Values from Table: B25077. 
 
-![(2022 Median Household Income) ](Median Household Income.png)
+![(2022 Median Household Income)](Median Household Income.png)
 
 EPA Superfund’s National Priorities List (NPL) and Toxic Release Inventory (TRI) Program
 We used the data from the NPL to project the current amount of Superfund Sites in the Bay Area. We cleaned the data so that it would also only show for certain counties, such as our main county of Santa Clara. We also added TRI sites to our map to show the number of current sites where toxic chemical releases and pollution reported by industrial and federal facilities are released. This additional element provides a more comprehensive understanding of environmental hazards in the area. Below is a map of TRI sites throughout the nine-county Bay Area. As we can see, there is a significant concentration in Santa Clara County along with Superfund Sites. 
 
-![(TRI Sites in the Nine County Bay Area Region) ](tri_bayarea.png)
+![(TRI Sites in the Nine County Bay Area Region)](tri_bayarea.png)
 
 Exposure to pollutants from Superfund and TRI sites has been linked to an increased risk of cardiovascular disease, including hypertension, atherosclerosis, and heart attack. These contaminants, which can enter the air, water, and soil, contribute to cardiovascular conditions by promoting inflammation, oxidative stress, and endothelial dysfunction. Mitigating exposure to these pollutants through remediation efforts and regulatory measures is essential for reducing the burden of cardiovascular disease in affected communities.
 
-![(Cardiovascular Disease Percentile in Santa Clara County) ](cardiovascular_superfund.png)
+![(Cardiovascular Disease Percentile in Santa Clara County)](cardiovascular_superfund.png)
 
 ## Analysis
 We focused our exploration on Santa Clara County rather than the entire nine-county Bay Area. The decision to do this came after an initial analysis of conducting a count of how many Superfund sites were in each county. 
 
 ### Santa Clara County 
 
-![(Superfund Sites in Santa Clara) ](Census Tracts with Superfund sites.png)
+![(Superfund Sites in Santa Clara)](Census Tracts with Superfund sites.png)
 
 #### While there are 23 Superfund Sites located across Santa Clara County alone, we chose to take a further look into two census tracts with the most concentrated toxic release and superfund sites. 
 
+#### Demographics 
 
-![(Share of Population Under 18 in Santa Clara County) ](superfund_shareof18.png)
+![(Race)](Race.png)
+The two identified cencus tracts in Santa Clara house a large Asian population of over 60%.
+
+![(Share of Population Under 18 in Santa Clara County)](Under 18_Illustrated.png)
+Census tract with 5 superfund sites, houses nearly 15% of the population below 18 years living in Santa Clara County.  
+
+![(Share of Population Above 60 in Santa Clara County)](Above 60_Illustrated.png)
+Census tract with 5 superfund sites, has less than 10% of the population above 60 years residing in it.
+
+![(Median Household Income Santa Clara County)](MHI_Illustrated.png)
+The median household income of the census tract with 5 superfund sites is over $250,000. 
+
 
 
 ## Key Findings
@@ -76,7 +88,7 @@ The majority of Superfund sites within Santa Clara County are strategically situ
 Over the period from 2012 to 2022, the median property values across Santa Clara County have exhibited a consistent trend, showing no significant deviation. This stability suggests that despite the presence of Superfund sites, broader economic factors and other local dynamics might have a more dominant influence on property values in the region.
 We also note that for the 2012 analysis, certain census tracts have missing data owing to the previously consolidated cencus tracts. By 2022, these larger census tracts were divided into two or more tracts. 
 
-![(Median Property Values in Santa Clara) ](2012 and 2022 Median Property Values.png)
+![(Median Property Values in Santa Clara)](2012 and 2022 Median Property Values.png)
 
 #### Resilience of Local Economy: 
 Despite the existence of five Superfund sites within a specific census tract, the median household income in 2022 surpassed $250,000. This observation indicates a remarkable economic resilience within the community, where despite potential environmental concerns, residents have managed to maintain high levels of income, possibly due to diverse economic opportunities or other mitigating factors.
