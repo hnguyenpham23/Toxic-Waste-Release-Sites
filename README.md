@@ -31,7 +31,8 @@ Overall, Superfund sites represent a commitment to addressing environmental poll
 
 ## Methdology
 
-American Community Survey 2022 5-Year Estimates
+**American Community Survey 2022 5-Year Estimates**
+
 We began our study by first utilizing the ACS demographic data to visualize the racial distribution across the nine Bay Area Counties. For the purpose of this study, we considered “Native Hawaiian and Other Pacific Islander”, “American Indian and Alaska Native” and “Two or More Races” as a part of the “Other” race category. ACS Table: B02001
 
 ![(Racial Distribution in the Bay Area / EPA)](Bay Area_Racial Distribution .png)
@@ -40,7 +41,8 @@ Taking a closer look at Santa Clara County, we further used data from Table: B19
 
 ![(2022 Median Household Income)](Median Household Income.png)
 
-EPA Superfund’s National Priorities List (NPL) and Toxic Release Inventory (TRI) Program
+**EPA Superfund’s National Priorities List (NPL) and Toxic Release Inventory (TRI) Program**
+
 We used the data from the NPL to project the current amount of Superfund Sites in the Bay Area. We cleaned the data so that it would also only show for certain counties, such as our main county of Santa Clara. We also added TRI sites to our map to show the number of current sites where toxic chemical releases and pollution reported by industrial and federal facilities are released. This additional element provides a more comprehensive understanding of environmental hazards in the area. Below is a map of TRI sites throughout the nine-county Bay Area. As we can see, there is a significant concentration of them in Santa Clara County.  
 
 ![(TRI Sites in the Nine County Bay Area Region)](tri_bayarea.png)
