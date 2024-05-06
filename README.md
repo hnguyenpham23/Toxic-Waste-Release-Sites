@@ -59,9 +59,10 @@ We focused our exploration on Santa Clara County rather than the entire nine-cou
 
 ### Santa Clara County 
 
-![(Superfund Sites in Santa Clara) ](Superfund Sites in Santa Clara County.png)
+![(Superfund Sites in Santa Clara) ](Census Tracts with Superfund sites.png)
 
-#### In Santa Clara alone, there are 23 Superfund sites.
+#### While there are 23 Superfund Sites located across Santa Clara County alone, we chose to take a further look into two census tracts with the most concentrated toxic release and superfund sites. 
+
 
 ![(Share of Population Under 18 in Santa Clara County) ](superfund_shareof18.png)
 
@@ -73,6 +74,7 @@ The majority of Superfund sites within Santa Clara County are strategically situ
 
 #### Stability in Property Values: 
 Over the period from 2012 to 2022, the median property values across Santa Clara County have exhibited a consistent trend, showing no significant deviation. This stability suggests that despite the presence of Superfund sites, broader economic factors and other local dynamics might have a more dominant influence on property values in the region.
+We also note that for the 2012 analysis, certain census tracts have missing data owing to the previously consolidated cencus tracts. By 2022, these larger census tracts were divided into two or more tracts. 
 
 ![(Median Property Values in Santa Clara) ](2012 and 2022 Median Property Values.png)
 
