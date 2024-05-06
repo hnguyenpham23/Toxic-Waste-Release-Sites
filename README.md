@@ -22,11 +22,6 @@ Superfund sites undergo a comprehensive process of investigation, evaluation, an
 
 Overall, Superfund sites represent a commitment to addressing environmental pollution and protecting communities from the adverse effects of hazardous substances. Through the Superfund program, efforts are made to remediate contaminated sites, restore ecosystems, and safeguard public health for present and future generations.
 
-### Superfund Sites in the Bay Area
-
-***insert map of superfund sites in the bayarea
-
-
 
 ## Data Sources 
 1. American Community Survey (ACS) 2012 and 2022 Census 5-Year Estimates
@@ -46,7 +41,7 @@ Taking a closer look at Santa Clara County, we further used data from Table: B19
 ![(2022 Median Household Income)](Median Household Income.png)
 
 EPA Superfund’s National Priorities List (NPL) and Toxic Release Inventory (TRI) Program
-We used the data from the NPL to project the current amount of Superfund Sites in the Bay Area. We cleaned the data so that it would also only show for certain counties, such as our main county of Santa Clara. We also added TRI sites to our map to show the number of current sites where toxic chemical releases and pollution reported by industrial and federal facilities are released. This additional element provides a more comprehensive understanding of environmental hazards in the area. Below is a map of TRI sites throughout the nine-county Bay Area. As we can see, there is a significant concentration in Santa Clara County along with Superfund Sites. 
+We used the data from the NPL to project the current amount of Superfund Sites in the Bay Area. We cleaned the data so that it would also only show for certain counties, such as our main county of Santa Clara. We also added TRI sites to our map to show the number of current sites where toxic chemical releases and pollution reported by industrial and federal facilities are released. This additional element provides a more comprehensive understanding of environmental hazards in the area. Below is a map of TRI sites throughout the nine-county Bay Area. As we can see, there is a significant concentration of them in Santa Clara County.  
 
 ![(TRI Sites in the Nine County Bay Area Region)](tri_bayarea.png)
 
@@ -82,7 +77,7 @@ The median household income of the census tract with 5 superfund sites is over $
 ## Key Findings
 
 #### Geographical Distribution of Superfund Sites: 
-The majority of Superfund sites within Santa Clara County are strategically situated in close proximity to significant landmarks such as the San Jose Airport and along the bay edge. This spatial concentration suggests a potential correlation between industrial activity or historical land use and the presence of hazardous waste sites.
+The majority of Superfund sites within Santa Clara County are strategically situated in close proximity to the San Jose Airport as well as along the major transportation corridor, Highway 101. This spatial concentration suggests a potential correlation between industrial activity or historical land use and the presence of hazardous waste sites.
 
 #### Stability in Property Values: 
 Over the period from 2012 to 2022, the median property values across Santa Clara County have exhibited a consistent trend, showing no significant deviation. This stability suggests that despite the presence of Superfund sites, broader economic factors and other local dynamics might have a more dominant influence on property values in the region.
